@@ -11,12 +11,12 @@ const codes = [
   "a"
 ];
 
+let index = 0
+
 function init() {
   // your code here
   
-  const konamiKey = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'a', 'b']
-  let index = 0
   function onKeyDownHandler(e) {
-  const konamiKey = e.konamiKey
+  const key = e.konamiKey
   
 }
