@@ -29,4 +29,6 @@ function init() {
   }
   else {index = 0}
 }
+const body = document.body;
+  body.addEventListener('keydown', onKeyDownHandler)
 }
