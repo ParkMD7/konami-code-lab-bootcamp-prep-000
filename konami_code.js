@@ -14,6 +14,7 @@ const codes = [
 function init() {
   // your code here
   
-  const konamiKey = ['a']
+  const konamiKey = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'a', 'b']
+  let index = 0
   
 }
