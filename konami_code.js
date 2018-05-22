@@ -17,6 +17,6 @@ function init() {
   // your code here
   
   function onKeyDownHandler(e) {
-  const key = e.konamiKey
+  const key = e.key
   
 }
