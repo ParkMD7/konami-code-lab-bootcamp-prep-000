@@ -16,6 +16,7 @@ function init() {
   
   const konamiKey = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'a', 'b']
   let index = 0
-  function 
+  function onKeyDownHandler(e) {
+  const konamiKey = e.konamiKey
   
 }
