@@ -23,8 +23,10 @@ function init() {
   index++
   
   if (index === codes.length) {
-    alert("")
+    alert("Congratulations! Cheat Code = Unlocked!")
+    index = 0
   }
-}
+  }
+  else {index = 0}
 }
 }
